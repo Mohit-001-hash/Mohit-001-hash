@@ -1,13 +1,13 @@
 <div align="center">
 
+
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mohit+%F0%9F%91%8B;B.Tech+%40+JKLU+%7C+Jaipur;Building+things+for+the+web+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mohit+%F0%9F%91%8B;B.Tech+%40+JKLU+%7C+Jaipur;Building+things+for+the+web+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<!-- Subtle tagline -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Always%20Building%20Something-00D9FF?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Status-Always%20Building%20Something-00FF88?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Open%20Source-GSSoC%202026-blueviolet?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Based%20in-Jaipur%2C%20India-%23FF6B6B?style=flat-square&labelColor=0d1117" />
 </p>
@@ -26,6 +26,24 @@ const mohit = {
   funFact : "My first open source PR got merged — and I haven't stopped since.",
 };
 ```
+
+---
+
+## `> badges --gssoc-2026`
+
+<div align="center">
+
+<img src="./badges/power-contributor.png" width="100" title="Power Contributor — Rare"/>
+<img src="./badges/rising-star.png" width="100" title="Rising Star — Uncommon"/>
+<img src="./badges/first-steps.png" width="100" title="First Steps"/>
+<img src="./badges/discord-verified.png" width="100" title="Discord Verified"/>
+<img src="./badges/profile-complete.png" width="100" title="Profile Complete"/>
+<img src="./badges/point-scorer.png" width="100" title="Point Scorer"/>
+<img src="./badges/bounty-hunter.png" width="100" title="Bounty Hunter"/>
+<img src="./badges/code-warrior.png" width="100" title="Code Warrior"/>
+<img src="./badges/getting-started.png" width="100" title="Getting Started"/>
+
+</div>
 
 ---
 
@@ -73,12 +91,12 @@ const mohit = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohit-001-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=blueviolet&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-001-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohit-001-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=blueviolet&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-001-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-001-hash&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=blueviolet&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-001-hash&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF88&ring=blueviolet&fire=FF6B6B&currStreakLabel=00FF88" />
 
 </div>
 
@@ -87,7 +105,7 @@ const mohit = {
 ## `> activity --contribution-graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-001-hash&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=blueviolet&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-001-hash&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF88&line=blueviolet&point=ffffff" />
 </div>
 
 ---
@@ -105,7 +123,7 @@ const mohit = {
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mohit-001-hash&style=flat-square&color=00D9FF&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Mohit-001-hash&style=flat-square&color=00FF88&label=Profile+Views" />
 
 </div>
 
