@@ -42,6 +42,9 @@ const mohit = {
 <img src="./badges/bounty-hunter.png" width="100" title="Bounty Hunter"/>
 <img src="./badges/code-warrior.png" width="100" title="Code Warrior"/>
 <img src="./badges/getting-started.png" width="100" title="Getting Started"/>
+<img src="./badges/building_momentum.png" width="100" title="Building Momentum"/>
+<img src="./badges/consistent.png" width="100" title="Consistent"/>
+<img src="./badges/weak-one.png" width="100" title="Weak One"/>
 
 </div>
 
