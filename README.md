@@ -86,7 +86,7 @@ const mohit = {
 | 🎮 **Tank Stars Clone** | Browser-based artillery game with physics | HTML · CSS · JS |
 | 🧟 **Zombie Survival Shooter** | 3D wave-based shooter, single HTML file | Three.js · JS |
 | 🫧 **Bubble Shooter** | Classic bubble popping game in browser | HTML · CSS · JS |
-|    **Alpha Shooter Game** | Tool for tracking CGPA with localStorage | HTML · JS |
+|    **Alpha Shooter Game** | An adventure Game with different difficulties including Boss levels | HTML · JS |
 
 ---
 
