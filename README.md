@@ -94,18 +94,24 @@ const mohit = {
 
 ---
 
+
 ## `> github --stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohit-001-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=blueviolet&text_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-001-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-001-hash&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF88&ring=blueviolet&fire=FF6B6B&currStreakLabel=00FF88" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-001-hash&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FF88&ring=blueviolet&fire=FF6B6B&currStreakLabel=00FF88" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohit-001-hash&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohit-001-hash&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohit-001-hash&theme=tokyonight" />
 
 </div>
+
 
 ---
 
