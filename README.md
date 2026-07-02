@@ -45,8 +45,12 @@ const mohit = {
 <img src="./badges/building_momentum.png" width="100" title="Building Momentum"/>
 <img src="./badges/consistent.png" width="100" title="Consistent"/>
 <img src="./badges/weak-one.png" width="100" title="Weak One"/>
+<img src="./badges/elite.png" width="100" title="Elite"/>
+<img src="./badges/gssoc-champion.png" width="100" title="GSSoC Champion"/>
+<img src="./badges/on-a-roll.png" width="100" title="On A Roll"/>
 
 </div>
+
 
 ---
 
