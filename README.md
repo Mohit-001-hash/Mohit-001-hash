@@ -48,6 +48,8 @@ const mohit = {
 <img src="./badges/elite.png" width="100" title="Elite"/>
 <img src="./badges/gssoc-champion.png" width="100" title="GSSoC Champion"/>
 <img src="./badges/on-a-roll.png" width="100" title="On A Roll"/>
+<img src="./badges/on_fire.png" width="100" title="On Fire"/>
+<img src="./badges/prolific.png" width="100" title="Prolific"/>
 
 </div>
 
