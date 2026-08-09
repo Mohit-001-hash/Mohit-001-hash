@@ -50,6 +50,7 @@ const mohit = {
 <img src="./badges/on-a-roll.png" width="100" title="On A Roll"/>
 <img src="./badges/on_fire.png" width="100" title="On Fire"/>
 <img src="./badges/prolific.png" width="100" title="Prolific"/>
+<img src="./unstoppable.png" width="100" title="Unstoppable — 12th Week Streak"/>
 
 </div>
 
